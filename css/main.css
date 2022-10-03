@@ -15,12 +15,21 @@ li {
 
 header {
     background-color: #DFE6E9;
+    
 }
 
 .shooting-star {
     vertical-align: middle;
 }
 
+nav {
+    background-color: #FFFFFF;
+}
+
 .material-symbols-outlined {
     vertical-align: middle;
+}
+
+div {
+    background-color: rgb(223, 89, 89);
 }

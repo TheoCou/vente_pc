@@ -14,9 +14,6 @@ body {
     background-color: #2D3436;
 }
 
-.stats {
-    
-}
 
 main {
     min-height: 100%;
@@ -24,7 +21,7 @@ main {
     position: relative;
 }
 
-nav ul{
+nav ul {
     display: flex;
     gap: 6rem;
     justify-content: center;
@@ -60,7 +57,7 @@ nav {
     vertical-align: middle;
 }
 
-div {
+figure {
     background-color: #FFFFFF;
     text-align: left;
     width: 60%;

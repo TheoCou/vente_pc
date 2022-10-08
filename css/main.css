@@ -15,7 +15,6 @@ body {
     background-color: #2D3436;
 }
 
-
 main {
     min-height: 100%;
     margin: 0 auto;
@@ -28,15 +27,19 @@ nav ul {
     justify-content: center;
 }
 
+figure img{
+    padding-left: 0.5rem;
+}
+
 li {
     list-style: none;
     transition: 400ms;
 }
 
 .list {
+
     display: inline-block;
 }
-
 
 header {
     background-color: #DFE6E9;
@@ -77,8 +80,9 @@ button {
     border-radius: 0.2rem;
     vertical-align: middle;
     display: flex;
-    justify-content: flex-end;
     padding: 0.7rem;
+    margin-left: 68%;
+    margin-top: 31%;
 }
 
 a {
@@ -99,4 +103,17 @@ footer {
     bottom: 0;
     width: 100%;
     font-weight: 1000;
+}
+
+/*--MOBILE--*/
+
+@media screen and (max-width: 390px){
+    header{
+        
+    }
+
+    footer{
+        position: fixed;
+        text-align: left;
+    }
 }

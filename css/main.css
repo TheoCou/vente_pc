@@ -122,7 +122,7 @@ footer {
     ul {
         text-align: left;
         flex-direction: column;
-        padding: 0.5rem;
+        padding-left: 0.5rem;
     }
 
     figure {

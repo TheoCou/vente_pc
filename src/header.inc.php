@@ -6,7 +6,7 @@
 
         <?php
 
-        include_once './pages/nav.inc.php';
+        include_once './src/nav.inc.php';
         
         ?>
 

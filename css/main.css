@@ -63,7 +63,6 @@ nav {
     vertical-align: middle;
 }
 
-
 .material-symbols-outlined {
     vertical-align: middle;
 }
@@ -127,6 +126,12 @@ footer {
     figure {
         display: flex;
         flex-direction: column;
+    }
+
+    .list{
+        display: flex;
+        display: inline-block;
+
     }
 
     footer {
